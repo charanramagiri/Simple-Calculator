@@ -18,6 +18,8 @@ def multiply(a, b):
 def divide(a, b):
     
 
+    
+
 def calculator():
     print("\nWelcome to the Team Calculator!")
     a, b = get_input()  # Taking input for `a` and `b`
